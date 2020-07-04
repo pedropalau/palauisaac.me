@@ -3,7 +3,7 @@ const tailwindcss = require('tailwindcss');
 
 module.exports = {
   siteMetadata: {
-    title: 'Pedro Enrique Palau Isaac',
+    title: 'Pedro Palau Isaac',
     description: 'Pedro Palau personal website',
     author: '@palauisaac',
   },
